@@ -1,6 +1,6 @@
 const { MessageEmbed, Discord } = require('discord.js');
 const ayarlar = require('../ayarlar.json');
-const db = require('quick.db')
+const db = require('quick.db');
 exports.run = async (client, message, args) => {
 //-------------------------------------------------------------------------------\\
   
